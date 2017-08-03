@@ -1,0 +1,3 @@
+<apex:page >
+  <apex:iframe src="/_ui/search/ui/UnifiedSearchResults?isdtp=mn&sfdcIFrameOrigin=https://digitaldeer-dev-ed.lightning.force.com"/>
+</apex:page>
